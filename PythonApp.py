@@ -1,5 +1,2 @@
-# hello-world
-Just to practice coding
-
-I Am new in GitHun trying to learn coding:)
-Are you ready?
+for x in range(6):
+    print ("The number now is ", x)
