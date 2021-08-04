@@ -1,2 +1,6 @@
-for x in range(6):
-    print ("The number now is ", x)
+def looper():
+    for x in range(6):
+        print ("The number now is ", x)
+
+
+looper()
